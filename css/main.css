@@ -159,7 +159,14 @@ display:none;
   padding-top: 45px;
 }
 .foo{
-  background: url(../img/footer.png)
+    background: url(../img/fo.png);
+    min-height: 16em;
+    background-size: 100%;
+}
+.foot{
+  background-color: #000;
+  padding-top: 4em;
+  color:#fff;
 }
  /* animation */
  @-webkit-keyframes phone {
